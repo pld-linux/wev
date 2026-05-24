@@ -1,7 +1,7 @@
 Summary:	Wayland event viewer
 Name:		wev
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications
 Source0:	https://git.sr.ht/~sircmpwn/wev/archive/%{version}.tar.gz
